@@ -45,7 +45,7 @@ The project strictly follows the **CRISP-DM (Cross-Industry Standard Process for
 ---
 
 ## Dataset Description
-- Source: [Kaggle - Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+- Source: [Kaggle - Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)
 - Features include:
   - Customer demographics (Type, Gender)
   - Sales data (Quantity, Tax, Total)
